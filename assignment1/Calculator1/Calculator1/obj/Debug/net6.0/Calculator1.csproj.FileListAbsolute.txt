@@ -1,0 +1,14 @@
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\bin\Debug\net6.0\Calculator1.exe
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\bin\Debug\net6.0\Calculator1.deps.json
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\bin\Debug\net6.0\Calculator1.runtimeconfig.json
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\bin\Debug\net6.0\Calculator1.dll
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\bin\Debug\net6.0\Calculator1.pdb
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.AssemblyInfoInputs.cache
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.AssemblyInfo.cs
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.dll
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\refint\Calculator1.dll
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.pdb
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\Calculator1.genruntimeconfig.cache
+D:\learngit\Csharp-work\assignment1\Calculator1\Calculator1\obj\Debug\net6.0\ref\Calculator1.dll

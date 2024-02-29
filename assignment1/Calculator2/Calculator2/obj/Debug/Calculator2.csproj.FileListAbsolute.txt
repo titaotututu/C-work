@@ -1,0 +1,10 @@
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+D:\learngit\Csharp-work\assignment1\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
