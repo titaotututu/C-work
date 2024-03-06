@@ -1,0 +1,14 @@
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\refint\PrimeNumber.dll
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
+D:\learngit\Csharp-work\assignment2\PrimeNumber\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll

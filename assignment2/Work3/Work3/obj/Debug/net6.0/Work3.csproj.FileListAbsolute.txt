@@ -1,0 +1,14 @@
+D:\learngit\Csharp-work\assignment2\Work3\Work3\bin\Debug\net6.0\Work3.exe
+D:\learngit\Csharp-work\assignment2\Work3\Work3\bin\Debug\net6.0\Work3.deps.json
+D:\learngit\Csharp-work\assignment2\Work3\Work3\bin\Debug\net6.0\Work3.runtimeconfig.json
+D:\learngit\Csharp-work\assignment2\Work3\Work3\bin\Debug\net6.0\Work3.dll
+D:\learngit\Csharp-work\assignment2\Work3\Work3\bin\Debug\net6.0\Work3.pdb
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.AssemblyInfoInputs.cache
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.AssemblyInfo.cs
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.dll
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\refint\Work3.dll
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.pdb
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\Work3.genruntimeconfig.cache
+D:\learngit\Csharp-work\assignment2\Work3\Work3\obj\Debug\net6.0\ref\Work3.dll
