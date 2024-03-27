@@ -1,0 +1,14 @@
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.exe
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.deps.json
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.runtimeconfig.json
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.dll
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.pdb
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.AssemblyInfoInputs.cache
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.AssemblyInfo.cs
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.dll
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\refint\OrderManagement.dll
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.pdb
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.genruntimeconfig.cache
+D:\learngit\Csharp-work\assignment5\OrderManagement\OrderManagement\obj\Debug\net6.0\ref\OrderManagement.dll
