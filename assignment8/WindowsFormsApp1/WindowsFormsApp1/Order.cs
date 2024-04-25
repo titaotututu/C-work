@@ -36,27 +36,50 @@ namespace WindowsFormsApp1
         //添加订单明细
         public void AddOrderDetails(OrderDetails orderdetails)
         {
-            foreach (OrderDetails item in Details)
-            {
-                if (item.Equals(orderdetails))   //当订单号相同的时候进行提示
-                {
-                    throw new ApplicationException("Error: Adding a repeat order item is not allowed");
-                }
-            }
+            //foreach (OrderDetails item in Details)
+            //{
+            //    if (item.Equals(orderdetails))   //当订单号相同的时候进行提示
+            //    {
+            //        throw new ApplicationException("Error: Adding a repeat order item is not allowed");
+            //    }
+            //}
 
+            //Details.Add(orderdetails);
+            //TotalAmount += orderdetails.Price * orderdetails.Quantity;   //重新更新总价 
+
+            if (Details.Contains(orderdetails))  //检查是否包含该对象
+                throw new InvalidOperationException("OrderDetails already exists.");
             Details.Add(orderdetails);
-            TotalAmount += orderdetails.Price * orderdetails.Quantity;   //重新更新总价 
+            using (var context = new OrderContext())
+            {
+                context.OrderDetails.Add(orderdetails);
+                context.SaveChanges();
+            }
         }
 
         //删除订单明细
         public void RemoveOrderDetails(OrderDetails orderdetails)
         {
-            if (!Details.Remove(orderdetails))  //删除订单的时候进行合理性的判断
+            //if (!Details.Remove(orderdetails))  //删除订单的时候进行合理性的判断
+            //{
+            //    throw new ApplicationException("Error: No such order item");
+            //}
+
+            //TotalAmount -= orderdetails.Price * orderdetails.Quantity;
+
+            Details.Remove(orderdetails);
+            int checkId = orderdetails.OrderItemId;
+            using (var context = new OrderContext())
             {
-                throw new ApplicationException("Error: No such order item");
+                var checkOrder = context.OrderDetails.Include("Details").FirstOrDefault(p => p.OrderItemId == checkId);
+                if (checkOrder != null)
+                {
+                    context.OrderDetails.Remove(checkOrder);
+                    context.SaveChanges();
+                }
             }
 
-            TotalAmount -= orderdetails.Price * orderdetails.Quantity;
+
         }
 
         //高速构建字符串
