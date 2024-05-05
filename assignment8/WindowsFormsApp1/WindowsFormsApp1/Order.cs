@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Mysqlx.Crud;
+using Org.BouncyCastle.Asn1.X509;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -79,7 +81,7 @@ namespace WindowsFormsApp1
                 }
             }
 
-
+            TotalAmount -= orderdetails.Price * orderdetails.Quantity;
         }
 
         //高速构建字符串

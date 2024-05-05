@@ -186,8 +186,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\AddOrder.datasource" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\Model1.datasource" />
+    <None Include="Properties\DataSources\ModifyOrder.datasource" />
     <None Include="Properties\DataSources\Order.datasource" />
+    <None Include="Properties\DataSources\OrderContext.datasource" />
+    <None Include="Properties\DataSources\OrderDetails.datasource" />
     <None Include="Properties\DataSources\OrderService.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
