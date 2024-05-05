@@ -1,0 +1,7 @@
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.GeneratedMSBuildEditorConfig.editorconfig
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.AssemblyInfoInputs.cache
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.AssemblyInfo.cs
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.csproj.CoreCompileInputs.cache
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.MvcApplicationPartsAssemblyInfo.cache
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.RazorAssemblyInfo.cache
+D:\learngit\Csharp-work\assignment9\assignment9\assignment9\obj\Debug\net6.0\assignment9.RazorAssemblyInfo.cs
